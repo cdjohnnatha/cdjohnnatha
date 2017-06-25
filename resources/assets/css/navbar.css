@@ -1,0 +1,19 @@
+header {
+	padding: 2em;
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+  box-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);;
+  background: rgba(192,203,209,0.5);
+  border-style: solid;
+  border-color: rgba(255,255,255,0.3);;
+  border-width: 0.1px; 
+}
+
+ 
+#brand {
+	font-family: LobsterTwo-Regular;
+	font-size: 2.1em;
+	color: white;
+}
