@@ -17,3 +17,21 @@ header {
 	font-size: 2.1em;
 	color: white;
 }
+
+#contentBrand{
+	margin-left: 2em;
+}
+
+
+#right-menu{
+	float: right;
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+#right-menu a{
+	font-family: Roboto-Regular;
+	color: white;
+	margin-right: 10px;
+	cursor: pointer;
+}
