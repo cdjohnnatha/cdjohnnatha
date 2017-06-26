@@ -40,9 +40,9 @@
 
 #imgBackground{
 	background-image: url('../images/bg.png');
-	width: 100%;
-	height: 40em;
 	background-repeat: no-repeat;
+	width: 100%;
+	height: 42em;
 	text-align: center;
 }
 
@@ -64,3 +64,33 @@
 }
 
 
+
+/*--------------------------------
+|######<-PORTFOLIO SECTION-> #####|
+---------------------------------*/
+
+#portfolio-header{
+	height: 140px;
+}
+
+#portfolio-header h1{
+	font-family: LobsterTwo-Regular;
+	margin-top: 4%;
+	margin-left: 3em;
+	float: left;
+	font-size: 36px;
+	border-right: solid;
+	border-width: 1px;
+	border-right-color: #E0E0E0;
+	padding-right: 1em;
+}
+
+
+#portfolio-header p{
+	margin-top: 3.9%;
+	margin-left: 2.5em;
+	float: left;
+	width: 18em;
+	font-size: 1.1em;
+	color: #BDBDBD;
+}
