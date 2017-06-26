@@ -94,3 +94,48 @@
 	font-size: 1.1em;
 	color: #BDBDBD;
 }
+
+#workviews{
+	width: 100%;
+	height: 20em;
+	background: black;
+}
+
+.card{
+	float: left;
+	height: 20em;
+	background: red;
+	width: 25%;
+	border: solid;
+	border-color: rgba(255,255,255, 0.4);
+	border-width: 1px;
+	background-repeat: no-repeat;
+}
+
+.card-image{
+
+}
+
+#work-1{
+	background-image: url("../images/portfolio1.jpg");
+	background-size: 45em;
+	background-position: 45% 5%;
+}
+
+#work-2{
+	background-image: url("../images/centerbg.jpg");
+	background-size: 26em;
+	background-position: 40% 45%;
+}
+
+#work-3{
+	background-image: url("../images/QrcodeSquare2.jpg");
+	background-size: 32em;
+	background-position: 48% 34%;
+}
+
+#work-4{
+	background-image: url("../images/culturi2.png");
+	background-size: 42em;
+	background-position: 48% 45%;
+}
